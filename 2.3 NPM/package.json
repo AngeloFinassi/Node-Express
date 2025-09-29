@@ -1,0 +1,26 @@
+{
+  "name": "leaning-npm",
+  "version": "1.0.0",
+  "description": "i'm leaning about npm",
+  "homepage": "https://github.com/AngeloFinassi/Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/AngeloFinassi/Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngeloFinassi/Node.js.git"
+  },
+  "license": "ISC",
+  "author": "Angelo MF",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.9.6",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
+}
